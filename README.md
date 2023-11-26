@@ -7,5 +7,11 @@ it's a repository code i write for participation on backdrop build
 - [playground](https://github.com/1999AZZAR/Telegram-Bot-Playground)
 - [wikipedia](https://github.com/1999AZZAR/wikipedia-powered-telegram-bot)
 - [palm 2 by gogle](https://github.com/1999AZZAR/Palm-powered-telegram-bot)
+    - [demo](https://t.me/Yuna_Ishikawa_bot)
 - [bard and g4f](https://github.com/1999AZZAR/bard-powered-telegram-bot)
 - [stability ai](https://github.com/1999AZZAR/telegram-image-generation-bot)
+
+## final product build
+
+- [SakuraAI Bloom](https://github.com/1999AZZAR/sakuraAI_Bloom)
+    - [demo](https://t.me/SakuraAI_bot)
