@@ -13,5 +13,6 @@ it's a repository code i write for participation on backdrop build
 
 ## final product build
 
-- [SakuraAI Bloom](https://github.com/1999AZZAR/sakuraAI_Bloom)
-    - [demo](https://t.me/SakuraAI_bot)
+- [SakuraAI Bloom repository](https://github.com/1999AZZAR/sakuraAI_Bloom)
+    - [demo on telegram](https://t.me/SakuraAI_bot)
+    - [youtube video demo](https://www.youtube.com/watch?v=FJao24j_6tE)
